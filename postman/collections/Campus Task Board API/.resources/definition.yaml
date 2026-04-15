@@ -1,0 +1,4 @@
+$kind: collection
+name: Campus Task Board API
+variables:
+  base_url = http://localhost:8080: ""
