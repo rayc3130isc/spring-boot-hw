@@ -61,7 +61,12 @@ public class TaskService {
         taskRepository.save(task);
     }
 
-
+    public void restoreTask(Integer id) {
+        Task task = taskRepository.findById(id)
+                .orElseThrow(() -> new TaskNotFoundException(id));
+        task.setDeleted(false);
+        taskRepository.save(task);
+    }
 
     // New methods using repository queries
     public List<Task> getCompletedTasks() {

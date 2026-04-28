@@ -12,7 +12,16 @@ import org.springframework.data.domain.Sort;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.validation.FieldError;
+import org.springframework.web.bind.MethodArgumentNotValidException;
+import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.*;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Optional;
 import java.util.List;
 
 @RestController
@@ -39,20 +48,15 @@ public class TaskController {
     @PostMapping
     public ResponseEntity<TaskResponse> createTask(
             @Valid @RequestBody TaskRequest taskRequest) {
-
         Task task = new Task();
         task.setTitle(taskRequest.getTitle());
         task.setDescription(taskRequest.getDescription());
         task.setCompleted(taskRequest.getCompleted() != null ? taskRequest.getCompleted() : false);
-
-        String priority = taskRequest.getPriority() != null
-                ? taskRequest.getPriority().toUpperCase()
-                : "MEDIUM";
-
-        task.setPriority(Task.Priority.valueOf(priority));
+        task.setPriority(Task.Priority.valueOf(
+                taskRequest.getPriority() != null ?
+                        taskRequest.getPriority().toUpperCase() : "MEDIUM"));
 
         Task createdTask = taskService.createTask(task);
-
         return ResponseEntity.status(HttpStatus.CREATED)
                 .body(TaskResponse.fromEntity(createdTask));
     }

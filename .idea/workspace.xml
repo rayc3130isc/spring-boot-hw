@@ -5,40 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45fb6e10-398a-440e-b951-c36c6acc2490" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/.idea/CampusTaskboardApplication.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/.postman/resources.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/CampusTaskboardApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/config/LoggingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/controller/TaskController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/data/DataInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/dto/ErrorResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/dto/TaskRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/dto/TaskResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/exception/InvalidTaskDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/exception/TaskNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/model/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/repository/TaskRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/service/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/test/java/edu/brooklyn/cisc3130/taskboard/CampusTaskboardApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/postman/collections/Campus Task Board API/.resources/definition.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw7/postman/globals/workspace.globals.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw7/campus-taskboard/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hw7/campus-taskboard/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/controller/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/controller/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/data/DataInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/service/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/service/TaskService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
