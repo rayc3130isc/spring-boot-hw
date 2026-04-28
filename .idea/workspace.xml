@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45fb6e10-398a-440e-b951-c36c6acc2490" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/.idea/CampusTaskboardApplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/.postman/resources.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/CampusTaskboardApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/config/LoggingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/data/DataInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/dto/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/dto/TaskRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/dto/TaskResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/exception/InvalidTaskDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/exception/TaskNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/model/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/repository/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/campus-taskboard/src/test/java/edu/brooklyn/cisc3130/taskboard/CampusTaskboardApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/postman/collections/Campus Task Board API/.resources/definition.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw7/postman/globals/workspace.globals.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rayc3130isc&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rayc3130isc/spring-boot-hw.git&quot;,
+    &quot;accountId&quot;: &quot;304e2c4a-d269-47dc-91c5-17461110c20d&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3ClNt7MJdFGO9p5pei82YRxKUxp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.CampusTaskboardApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/absol/IdeaProjects/spring-boot-hw/hw7&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\absol\IdeaProjects\spring-boot-hw\hw7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\absol\IdeaProjects\spring-boot-hw\hw6" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CampusTaskboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CampusTaskboardApplication" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CampusTaskboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="campus-taskboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.brooklyn.cisc3130.taskboard.CampusTaskboardApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.brooklyn.cisc3130.taskboard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CampusTaskboardApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45fb6e10-398a-440e-b951-c36c6acc2490" name="Changes" comment="" />
+      <created>1776956409161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776956409161</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
