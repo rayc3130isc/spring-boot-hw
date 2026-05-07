@@ -10,4 +10,4 @@
   - Note: `CampusTaskboardApplication.java` must be ran to view documentation.
 
 ## Video Submission Link
-> https://youtu.be/X06ZBB2FCyE
+> https://youtu.be/d9a3f7b-7SM
